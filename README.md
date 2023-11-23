@@ -29,6 +29,4 @@ cd my-react-app && npm start
 - `view-source`: [React GitHub Repository](https://github.com/facebook/react)
 - `view-source`: [React Developer Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 
-## License
-
-React is [MIT licensed](https://opensource.org/licenses/MIT).
+## [MIT licensed](https://opensource.org/licenses/MIT).
