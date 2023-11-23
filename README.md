@@ -17,15 +17,17 @@
 
 
 ## Create REACT app;
-`npm install -g create-react-app`
-`npx create-react-app my-react-app`
-`cd my-react-app && npm start`
+```bash
+npm install -g create-react-app
+npx create-react-app my-react-app
+cd my-react-app && npm start
+```
 
 ## Resources
 
-- [view-source]() [Official React Documentation](https://reactjs.org/docs/getting-started.html)
-- [view-source]() [React GitHub Repository](https://github.com/facebook/react)
-- [view-source]() [React Developer Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
+- `view-source`: [Official React Documentation](https://reactjs.org/docs/getting-started.html)
+- `view-source`: [React GitHub Repository](https://github.com/facebook/react)
+- `view-source`: [React Developer Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 
 ## License
 
